@@ -1,0 +1,32 @@
+[
+    {
+        "name":"moscow",
+        "price":"1500",
+        "discription":" Moscow today is safe as much as other cities in Europe, despite its problematic history with criminal activity in the 90s. However, if you're planning on traveling to Moscow, keep in mind that you should always keep your guard up and remain aware of your surroundings",
+        "img":"https://i.ibb.co/WvnSYRs/mosco.jpg"
+    },
+    {
+        "name":"rome",
+        "price":"1400",
+        "discription":" What is Rome famous for?Rome is known for its stunning architecture, with the Colleseum, Pantheon, and Trevi Fountain as the main attractions. It was the center of the Roman Empire that ruled the European Continent for several ages. And, you'll find the smallest country in the world in Rome",
+        "img":"https://i.ibb.co/SmHCcvb/rome.jpg"
+    },
+    {
+        "name":"vatican city",
+        "price":"1500",
+        "discription":" Up until 1871, Italy was divided into many separate states. One of these states was the Papal lands which covered around one-third of Italy and was ruled by the Pope. When Italy became one unified country, the Pope lost a great deal of territory and power",
+        "img":"https://i.ibb.co/NxYYkQR/vatican.jpg"
+    },
+    {
+        "name":"Taj mahal",
+        "price":"1500",
+        "discription":" An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage",
+        "img":"https://i.ibb.co/zXGbdBb/taj-mahal.jpg"
+    },
+    {
+        "name":"paris",
+        "price":"1500",
+        "discription":"Is Paris a safe place to live? For one of the largest cities in Europe and one of the most touristed cities in the world, Paris is quite safe. Virtually all neighborhoods are considered safe. There is a very low risk of violent crime. ... You'll also find petty crime around the major train stations like Gare du Nord, which is a bit shady late at night",
+        "img":"https://i.ibb.co/WHD4jS5/paris.jpg"
+    }
+]

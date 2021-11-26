@@ -1,0 +1,17 @@
+.img-div {
+  overflow: hidden;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.img {
+  transition: all 1s;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.img:hover {
+  transform: scale(1.5);
+}
+.form-control:focus {
+  border-color: #ec6f09;
+  box-shadow: 0 0 0 0.2rem rgba(221, 50, 7, 0.493);
+}
